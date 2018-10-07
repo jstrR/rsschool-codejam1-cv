@@ -11,31 +11,29 @@ body {
     #a0d8ef 100%
   );
 }
-.headingText {
-}
-.contactsHeading,
-.skillsHeading,
-.codeHeading,
-.educationHeading {
+.contacts-heading,
+.skills-heading,
+.code-heading,
+.education-heading {
   text-align: center;
   font-size: 28px;
   font-style: italic;
 }
-.gitLink {
+.git-link {
   text-decoration: none;
-  color: gray;
+  color: rgb(128, 128, 128);
   font-style: italic;
 }
 p,
 li,
-.gitLink,
-.languageText {
+.git-link,
+.language-text {
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   font-size: 18px;
 }
-.photoWrapper {
+.photo-wrapper {
   text-align: center;
 }
-.boldText {
+.bold-text {
   font-weight: 700;
 }
